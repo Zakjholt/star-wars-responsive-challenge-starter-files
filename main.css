@@ -1,9 +1,14 @@
+* {
+    box-sizing: border-box;
+}
 body {
     font-family: "Roboto", sans-serif;
 }
 
 header {
     background: goldenrod;
+    display: table;
+    width: 100%;
 }
 
 img {
@@ -12,4 +17,6 @@ img {
 
 .col-4 {
     border: 1px solid #bbb;
+    margin: 5px;
+    padding: 5px;
 }
