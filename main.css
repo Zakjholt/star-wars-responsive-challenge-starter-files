@@ -9,6 +9,7 @@ header {
     background: goldenrod;
     display: table;
     width: 100%;
+    margin-bottom: 20px
 }
 
 img {
@@ -17,4 +18,9 @@ img {
 
 .col-4 {
     border: 1px solid #bbb;
+    margin-bottom: 20px;
+}
+
+.col-4 h2, .col-4 p {
+    padding: 20px;
 }
