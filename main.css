@@ -1,0 +1,15 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background: goldenrod;
+}
+
+img {
+    width: 100%;
+}
+
+.col-4 {
+    border: 1px solid #bbb;
+}
